@@ -72,7 +72,7 @@ Ce n’était pas notre cas car les commandes avec docker compose fonctionnaient
 > 
 
 ```python
-git clone https://github.com/fr-AlphaP/SAE_INT
+git clone https://github.com/frver0x/SAE_INT
 cd ~/SAE_INT
 ```
 
